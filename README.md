@@ -73,7 +73,7 @@ Este projeto representa **apenas a página inicial** da loja, podendo ser expand
 ## 💡 Como executar o projeto
 
 1. Baixe ou clone este repositório
-2. Abra o arquivo `index.html` no navegador
+2. Abra o arquivo `index(1).html` no navegador
 
 Não é necessário instalar dependências.
 
