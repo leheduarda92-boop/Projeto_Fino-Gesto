@@ -31,7 +31,7 @@ Componentes como **navbar, carousel e cards** foram utilizados de forma estraté
 
 Criar uma **landing page moderna e atrativa** para uma confeitaria de doces finos, destacando:
 
-* Produtos em evidência
+* Produtos destaque
 * Identidade visual delicada
 * Facilidade de navegação
 
